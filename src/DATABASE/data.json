@@ -1,0 +1,114 @@
+[
+  {
+    "ID": "43",
+    "Make": "Gudereit",
+    "Model": "EC-5",
+    "Price": "899",
+    "UserID": "434",
+    "Date": "2021-05-15"
+  },
+  {
+    "ID": "44",
+    "Make": "Diamant",
+    "Model": "Beryll",
+    "Price": "2100",
+    "UserID": "512",
+    "Date": "2021-05-03"
+  },
+  {
+    "ID": "46",
+    "Make": "Diamant",
+    "Model": "Juna",
+    "Price": "1100",
+    "UserID": "432",
+    "Date": "2021-07-15"
+  },
+  {
+    "ID": "51",
+    "Make": "Gudereit",
+    "Model": "EC-5",
+    "Price": "700",
+    "UserID": "534",
+    "Date": "2021-07-13"
+  },
+  {
+    "ID": "56",
+    "Make": "Gudereit",
+    "Model": "ET-9 evo",
+    "Price": "1600",
+    "UserID": "431",
+    "Date": "2021-06-20"
+  },
+  {
+    "ID": "61",
+    "Make": "Diamant",
+    "Model": "BERYLL",
+    "Price": "900",
+    "UserID": "412",
+    "Date": "2021-07-01"
+  },
+  {
+    "ID": "66",
+    "Make": "AwesomeBikes",
+    "Model": "Dirt Drifter 3000",
+    "Price": "1900",
+    "UserID": "399",
+    "Date": "2021-06-28"
+  },
+  {
+    "ID": "67",
+    "Make": "Kettler",
+    "Model": "Velossi",
+    "Price": "1800",
+    "UserID": "532",
+    "Date": "2021-07-04"
+  },
+  {
+    "ID": "78",
+    "Make": "Gudereit",
+    "Model": "ec-5",
+    "Price": "1200",
+    "UserID": "416",
+    "Date": "2021-07-03"
+  },
+  {
+    "ID": "81",
+    "Make": "Gudereit",
+    "Model": "EC 5",
+    "Price": "850",
+    "UserID": "498",
+    "Date": "2021-04-11"
+  },
+  {
+    "ID": "97",
+    "Make": "Awesome Bikes",
+    "Model": "Dirt-Drifter-3000",
+    "Price": "1600",
+    "UserID": "387",
+    "Date": "2021-05-20"
+  },
+  {
+    "ID": "121",
+    "Make": "Gudereit",
+    "Model": "ET 9 evo",
+    "Price": "1900",
+    "UserID": "434",
+    "Date": "2021-07-15"
+  },
+  {
+    "ID": "178",
+    "Make": "Diamant",
+    "Model": "beryll",
+    "Price": "2600",
+    "UserID": "488",
+    "Date": "2021-06-27"
+  },
+  {
+    "ID": "190",
+    "Make": "Diamant",
+    "Model": "Mandara",
+    "Price": "999",
+    "UserID": "420",
+    "Date": "2021-07-17"
+  }
+]
